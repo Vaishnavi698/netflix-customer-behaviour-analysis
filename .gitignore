@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local database
+netflix.db
+
+# Temporary backups
+sessions_backup.csv
+# Raw dataset
+data/
+
+# Power BI generated export data
+powerbi_data/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
